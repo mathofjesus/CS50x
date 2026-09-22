@@ -1,0 +1,1 @@
+Exercicio realisados durante o curso CS50X Harvard.
